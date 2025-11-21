@@ -1,0 +1,38 @@
+Part 2: Sofia Lendahl
+I used AI to assist in the 2023 vs 2017 comparison visual because I forgot how to create subplots:
+
+Query: how to create subplots with two rows in matplotlib. Would it be nrows?
+
+Response:
+Yes — when using **`plt.subplots()`** in Matplotlib, the argument that controls the number of rows is **`nrows`**.
+
+Here’s the simplest example:
+
+```python
+import matplotlib.pyplot as plt
+
+fig, axes = plt.subplots(nrows=2, ncols=1, figsize=(8, 6))
+
+axes[0].plot([1, 2, 3], [1, 4, 9])
+axes[0].set_title("Top Plot")
+
+axes[1].plot([1, 2, 3], [9, 4, 1])
+axes[1].set_title("Bottom Plot")
+
+plt.tight_layout()
+plt.show()
+```
+
+### ✔️ `nrows=2` → two rows
+
+### ✔️ `ncols=1` → one column (you can change this)
+
+You can also omit the keywords and use positional arguments:
+
+```python
+fig, axes = plt.subplots(2, 1)
+```
+
+Both work the same.
+
+If you'd like to share your intended layout (e.g., 2×2, shared x-axis, uneven widths, etc.), I can help you generate the exact code.
