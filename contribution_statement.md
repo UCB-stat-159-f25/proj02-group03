@@ -1,0 +1,2 @@
+## Sofia
+I worked on part 2, with my code and descriptions in the `nlp-P02.ipynb` file. I worked on my 'sofia' branch and then merged my work into the 'main' GitHub repo. I also helped create the GH pages site and Binder link.
