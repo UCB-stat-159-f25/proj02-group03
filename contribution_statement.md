@@ -8,3 +8,7 @@ I worked on Part 4 (EC) of Project 2, as well as looked over the files and cross
 ## Peter
 
 I worked on Part 3 and managed some merge conflicts given different cached images in jupyter notebooks. 
+
+## Neha
+
+I worked on Part 1 for this project on the 'neha' branch, added to the README.md file, and helped ensure we are meeting all the requirements for this project.
