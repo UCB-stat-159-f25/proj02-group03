@@ -3,3 +3,7 @@
 Template repository for Project 2, Stat 159/259 Fall 2025
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group03.git/HEAD?urlpath=%2Fdoc%2Ftree%2FREADME.md)
+
+## Part 4: Choose your own advecnture! (7 Points; Optional for Extra Credit)
+
+For this section, 
